@@ -47,7 +47,8 @@
   </header>
 
   <main>
-    <form action="" class="form-inline justify-content-center">
+    <form action="ws/salvar-livro" 
+      class="form-inline justify-content-center">
       <div class="form-group">
         <input type="text" name="txt_livro" 
           id="txt_livro" class="form-control">
